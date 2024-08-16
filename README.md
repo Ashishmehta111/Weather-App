@@ -1,8 +1,12 @@
 WeatherApp
+
+
 Overview
+
 WeatherApp is a user-friendly weather application that provides real-time weather forecasts. It allows users to check the current weather conditions, hourly forecasts, and multi-day forecasts for any location. The app is designed to be fast, responsive, and easy to use, making it the perfect tool for staying updated on weather conditions.
 
 Features
+
 Live Weather Data: Get real-time weather information for any location using a reliable weather API.
 Hourly & Multi-Day Forecasts: View detailed weather forecasts for the upcoming hours and days.
 Geolocation: Automatically detect the user’s location to provide relevant weather data, or allow users to search for specific locations.
